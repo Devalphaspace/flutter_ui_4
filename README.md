@@ -12,7 +12,7 @@ P.S. **While this project demonstrates a basic Flutter UI, I'm passionate in wor
 
 ## Screenshots
 
-![App Screenshot](assets/simulator_screenshot_5A1BA357-DC46-40A2-BB17-4B3C64E92A2A.png)
+<img src="assets/simulator_screenshot_5A1BA357-DC46-40A2-BB17-4B3C64E92A2A.png" alt="App Screenshot" height="300">
 
 
 ## Installation
